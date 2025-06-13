@@ -96,7 +96,7 @@
   },
   "dependencies": {
     "@flarenetwork/mcc": "4.0.3",
-    "@google-cloud/secret-manager": "4.2.1",
+    "@google-cloud/secret-manager": "6.0.0",
     "@nestjs/common": "9.3.9",
     "@nestjs/core": "9.3.9",
     "@nestjs/passport": "9.0.3",
@@ -112,7 +112,7 @@
     "ethers": "^6.7.1",
     "event-stream": "4.0.1",
     "express": "4.18.2",
-    "glob": "9.3.0",
+    "glob": "11.0.3",
     "helmet": "6.0.1",
     "mysql2": "3.2.0",
     "node-disk-info": "1.3.0",
