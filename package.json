@@ -125,7 +125,7 @@
     "safe-stable-stringify": "2.4.2",
     "single-instance": "0.0.1",
     "tail": "2.2.6",
-    "typeorm": "0.3.12",
+    "typeorm": "0.3.18",
     "web3": "1.8.2",
     "winston": "3.8.2",
     "yargs": "17.7.1"
