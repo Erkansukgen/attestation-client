@@ -96,7 +96,7 @@
   },
   "dependencies": {
     "@flarenetwork/mcc": "4.0.3",
-    "@google-cloud/secret-manager": "4.2.1",
+    "@google-cloud/secret-manager": "5.0.0",
     "@nestjs/common": "9.3.9",
     "@nestjs/core": "9.3.9",
     "@nestjs/passport": "9.0.3",
