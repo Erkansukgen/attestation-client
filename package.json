@@ -102,7 +102,7 @@
     "@nestjs/passport": "9.0.3",
     "@nestjs/platform-express": "9.3.9",
     "@nestjs/platform-ws": "9.3.9",
-    "@nestjs/swagger": "6.2.1",
+    "@nestjs/swagger": "11.2.2",
     "@nestjs/typeorm": "9.0.1",
     "@nestjs/websockets": "9.3.9",
     "@openzeppelin/contracts": "4.8.2",
